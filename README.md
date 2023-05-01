@@ -16,4 +16,4 @@
  </div><br/>
 
  Graduado em Sistemas de informação | Desenvolvedor Front-end | Apaixonado pela programação e seus desafios! <br/>
- Atualmente trabalho como Axiliar de programaçao atuando no Front-end na Infinity Solutions App
+ Atualmente trabalho como Auxiliar de programaçao atuando no Front-end na Infinity Solutions App.
