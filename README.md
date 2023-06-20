@@ -1,10 +1,10 @@
-### Olá! eu sou o Jeanderson, seja bem-vindo ao meu perfil ✌️
+# Hello! I'm Jeanderson, welcome to my profile✌️
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jeandersonsantos16)[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanderson-santos-456a3691/)
 
 
 ![Jeanderson Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=JeandersonSantos&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
  
  <div style="display: inline_block"><br/>
  <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -14,5 +14,5 @@
  <img aling="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
  </div><br/>
 
- Graduado em Sistemas de informação | Desenvolvedor Front-end | Apaixonado pela programação e seus desafios! <br/>
- Atualmente trabalho como Auxiliar de programaçao atuando no Front-end na Infinity Solutions App.
+ Graduated in Information Systems | Front End Developer | Passionate about programming and its challenges! <br/>
+ I currently work as a Programming Assistant working on the Front-end at Infinity Solutions App.
