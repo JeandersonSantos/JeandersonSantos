@@ -14,5 +14,5 @@
  <img aling="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
  </div><br/>
 
- Graduated in Information Systems | Front End Developer | Passionate about programming and its challenges! <br/>
- I currently work as a Programming Assistant working on the Front-end at Infinity Solutions App.
+Graduated in Information Systems | Front End Developer | Passionate about programming and its challenges!
+Currently working as a Front-end at Infinity Solutions App.
