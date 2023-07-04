@@ -2,8 +2,8 @@
 ## Hello! I'm Jeanderson, welcome to my profile.
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jeandersonsantos16)[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanderson-santos-456a3691/)
 <div>
- <a href="https://github.com/JeandersonSantos">
- <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/JeandersonSantos?cardType=github&theme=graywhite&preferLogin=false&card_width=420"/>
+ <a href="https://github.com/JeandersonSantos" >
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=JeandersonSantos&rank_icon=github&layout=normal&card_width=420&theme=graywhite"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeandersonSantos&layout=normal&card_width=458&theme=graywhite"/>
  </a>
 </div>
