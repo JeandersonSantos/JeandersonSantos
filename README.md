@@ -19,4 +19,4 @@
  </div><br/>
 
 Graduated in Information Systems | Front End Developer | Passionate about programming and its challenges!
-Currently working as a Front-end at Infinity Solutions App.
+Currently working as a Front-end at [Infinity Solutions App](https://infinitysolutionsapp.com/).
