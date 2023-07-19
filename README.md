@@ -1,6 +1,8 @@
-<div align="center">
+  <div align="center">
   <h2>Hello! I'm Jeanderson, welcome to my profile!</h2>
+  </div>
  </br>
+ <div align="center">
   <a href="https://instagram.com/jeandersonsantos16">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
