@@ -1,5 +1,5 @@
   <div align="center">
-    <img width="767px" src="https://github.com/JeandersonSantos/JeandersonSantos/assets/19619013/dba4bed1-5d1d-45c6-94e3-b291b7e6567b" alt="banner" />
+    <img width="767px" src="https://github.com/JeandersonSantos/JeandersonSantos/assets/19619013/2f9f98b5-a5e1-4159-b534-8ed68c2794f1" alt="banner" />
   </div>
  </br>
  <div align="center">
