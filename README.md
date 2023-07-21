@@ -20,7 +20,7 @@
   </a>
 </div>
 <div align="center">
- <h2>Technologies I use in my day:</h2> 
+ <h2>Technologies I use in my day</h2> 
   
   <div style="display: inline_block"><br/>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -29,8 +29,10 @@
   <img aling="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img aling="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   </div>
-  </div>
+</div>
  <br/>
-
+<div align="center">
+<h2>About me</h2> 
 Graduated in Information Systems | Front End Developer | Passionate about programming and its challenges!
 Currently working as a Front-end at [Infinity Solutions App](https://infinitysolutionsapp.com/).
+</div>
