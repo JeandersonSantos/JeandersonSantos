@@ -20,7 +20,7 @@
   </a>
 </div>
 <div align="center">
- <h2>Technologies i use in my day</h2> 
+ <h2>Technologies i use in my day.</h2> 
   
   <div style="display: inline_block"><br/>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
