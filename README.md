@@ -35,6 +35,6 @@
  <br/>
 <div align="center">
 <h2>About me</h2> 
-Graduated in Information Systems | Front End Developer | Passionate about programming and its challenges</br>
+Graduated in Information Systems | Front End Developer | Passionate about programming and its challenges.</br>
 Currently working as a Front-end at <a href="https://infinitysolutionsapp.com/"> Infinity Solutions App. </a>
 </div>
