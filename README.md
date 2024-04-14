@@ -4,9 +4,9 @@
  </br>
  <div align="center">
     <h2>My networks</h2> 
-  <a href="https://instagram.com/jeandersonsantos16">
+<!--   <a href="https://instagram.com/jeandersonsantos16">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/jeanderson-santos-456a3691/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
