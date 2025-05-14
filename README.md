@@ -41,5 +41,5 @@
 Graduated in Information Systems | Front End Developer | Passionate about programming and its challenges.</br>
 <!-- Currently working as a Front-end at <a href="https://infinitysolutionsapp.com/"> Infinity Solutions App. </a> -->
 
-Access my portfolio <a href="https://portfolio-pi-indol-45.vercel.app/">here</a>>
+Access my portfolio <a href="https://portfolio-pi-indol-45.vercel.app/">here</a>
 </div> 
